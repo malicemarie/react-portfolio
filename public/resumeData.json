@@ -1,56 +1,41 @@
 {
   "main": {
     "name": "Marie Lenac",
-    "occupation": "UW Bootcamp Student",
+    "occupation": "Bootcamp Student",
     "description": "Gearing up to graduate and lift off my career change into the tech space, I am ready to be a part of the action!",
     "image": "profilepic.jpg",
     "bio": "I am a tenacious and dynamic individual looking for new opportunities and career advancement. I'm very process focused and I have been applying that to various roles in the sales & sales ops space. I have a knack for creative problem solving and I'm committed to sustainability and long term progress. Helping others is something that gives me fulfillment in life and at work, I want to foster a sense of teamwork and collaboration wherever I go.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "lenacm02@gmail.com",
+    "phone": "425-350-9527",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "Corliss Ave N",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98133"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://malicemarie.github.io/MyPortfolio/",
+    "resumedownload": "https://malicemarie.github.io/Resume/",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "google-plus",
-        "url": "http://googleplus.com/tbakerx",
-        "className": "fa fa-google-plus"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/marielenac/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "http://instagram.com/malicemarie",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "http://github.com/malicemarie",
         "className": "fa fa-github"
       },
       {
-        "name": "skype",
-        "url": "http://skype.com",
-        "className": "fa fa-skype"
+        "name": "email",
+        "url": "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=lenacm02@gmail.com",
+        "className": "fa fa-envelope"
       }
     ]
   },
