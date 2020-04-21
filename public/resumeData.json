@@ -40,44 +40,46 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are some the skills I learned in my bootcamp & acquired through job experience",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of Washington",
+        "degree": "Full stack Coding Certificate",
+        "graduated": "May 2020",
+        "description": "24 week full stack certification program."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Central Washington University",
+        "degree": "B.A Psychology",
+        "graduated": "June 2012",
+        "description": "Recieved my undergraduate degree in psychology, as well as completing minor studies in visual art & merchandising.  I participated in collegiate sports, Rugby and Soccer"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "True Brands",
+        "title": "Customization Operations",
+        "years": "October 2017 - January 2020",
+        "description": "Main point of contact for everything branding & decoration.  We printed, engraved or otherwise customized thousands of products.  My duties included graphic and logo design, production management, training, specialty operations tasks and much more.  I was laid off in Jan 2020 because of company downsizing"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Verizon Wireless",
+        "title": "Inventory Operations Specialist",
+        "years": "August 2013 - June 2016",
+        "description": "Monitoring Inventory and sales in a retail location.  I was in charge of managing all the inventory coming in and out of the store via deliveries, markouts and sales.  Created and exectuted the 'Wireless Workshops' for my location, serving 100s of people per month with hand held device instruction sessions."
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
         "name": "Illustrator",
-        "level": "55%"
+        "level": "45%"
       },
+
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+
       {
         "name": "ReactJs",
         "level": "50%"
@@ -91,12 +93,12 @@
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "JavaScript",
         "level": "50%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "60%"
       }
     ]
   },
