@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio",
-  "homepage": "https://marielenac-portfolio.herokuapp.com/",
+  "homepage": "/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
