@@ -19,12 +19,12 @@ So I can obtain as many job opportunities as possible
 
 ## How It Works
 
--From your CLI create a react app using `create-react-app`
--From your newly created app run the following commands separately to install dependencies: `npm install jquery --save` and `npm install react-ga --save`
--Next download my repo or visit the original repo [here](https://github.com/tbakerx/react-resume-template).
--Replace the `src` folder and the `public` folder in your react app with the folders you downloaded from GitHub.
--Update the information in `public > resumeData.json`
--Remember to replace the images with your own, for ease of use KEEP THE FILE NAMES THE SAME.
+1. From your CLI create a react app using `create-react-app`
+1. From your newly created app run the following commands separately to install dependencies: `npm install jquery --save` and `npm install react-ga --save`
+1. Next download my repo or visit the original repo [here](https://github.com/tbakerx/react-resume-template).
+1. Replace the `src` folder and the `public` folder in your react app with the folders you downloaded from GitHub.
+1. Update the information in `public > resumeData.json`
+1. Remember to replace the images with your own, for ease of use KEEP THE FILE NAMES THE SAME.
 
 ## Link
 
