@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Marie Lenac",
-    "occupation": "Full Stack Developer Intern",
+    "occupation": "Full Stack Developer",
     "description": "Working on launching a game changing social impact platform with the startup, NEDDIE.",
     "image": "profilepic.jpg",
     "bio": "I am a tenacious and dynamic individual looking for new opportunities and career advancement. I'm very process focused and I have been applying that to various roles in the sales & sales ops space. I have a knack for creative problem solving and I'm committed to sustainability and long term progress. Helping others is something that gives me fulfillment in life and at work, I want to foster a sense of teamwork and collaboration wherever I go.",
@@ -58,7 +58,7 @@
     "work": [
             {
         "company": "NEDDIE",
-        "title": "Full Stack Developer",
+        "title": "Full Stack Developer Intern",
         "years": "June 2020 - Present",
         "description": "Full Stack Intern using primarily Typescript and React/Redux, Mongo DB.  Currently working on the soft launch of the platform with feaure rollouts happening as soon as September 2020.  Gaining experience working on a small dev team, Stripe payment implementation, ground up building of PWA. "
       },
